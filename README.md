@@ -69,6 +69,5 @@ Only drivers confirmed for the 2025 season are considered in the final Top 10 li
 
 ---
 
-## 📁 Directory Structure
 
 
