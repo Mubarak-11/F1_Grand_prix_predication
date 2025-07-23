@@ -1,7 +1,6 @@
 # 🏎️ Formula 1 Race Predictions — Spa Grand Prix 2025
 
-A machine learning project that uses real-world Formula 1 data to predict driver rankings for the **Belgian Grand Prix 2025 at Spa-Francorchamps**.  
-Built using **LightGBM Rankers**, evaluated with **NDCG@K** and **Hit@K**, and visualized with podium-style and bar plots.
+A machine learning project that uses real-world Formula 1 data to predict driver rankings for the **Belgian Grand Prix 2025 at Spa-Francorchamps**.  Built using **LightGBM Rankers**, evaluated with **NDCG@K** and **Hit@K**, and visualized with podium-style and bar plots.
 
 ---
 
